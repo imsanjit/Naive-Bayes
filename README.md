@@ -12,7 +12,7 @@ Naive Bayes Classifier
 P(A|B) = {P(B|A) * P(A) } / P(B)
 
 
-P(A|B) --> Probability of A given that B is true. (Likelyhood)
-P(B|A) --> Probability of B given that A is true.
-P(A) --> Probability of A.
-P(B) --> Probability of B.
+- P(A|B) --> Probability of A given that B is true. (Likelyhood)
+- P(B|A) --> Probability of B given that A is true.
+- P(A) --> Probability of A.
+- P(B) --> Probability of B.
